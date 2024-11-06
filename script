@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/andy-gui/Andy-hub/refs/heads/main/CODE.lua",true))();
